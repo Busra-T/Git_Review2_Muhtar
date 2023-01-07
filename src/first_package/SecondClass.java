@@ -6,4 +6,7 @@ public class SecondClass {
 
     // just checking
 
+    // blue means saved in local
+    // green means not saved
+
 }
